@@ -1,6 +1,6 @@
 {
   "name": "react-locustjs-locator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This library provides a small utility function that provides dependency injection for react components.",
   "main": "index.cjs.js",
   "module": "index.esm.js",

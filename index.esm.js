@@ -23,7 +23,7 @@ const Render = props => {
                 }
             }
 
-            return <Component {..._props} />;
+            return React.createElement(Component, _props);
         }
     }
 
