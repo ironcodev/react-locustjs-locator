@@ -1,0 +1,36 @@
+{
+  "name": "react-locustjs-locator",
+  "version": "1.0.0",
+  "description": "This library provides a small utility function that provides dependency injection for react components.",
+  "main": "index.cjs.js",
+  "module": "index.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironcodev/react-locustjs-locator.git"
+  },
+  "keywords": [
+    "react",
+    "locustjs",
+    "locator",
+    "Inversion of Control",
+    "Dependency Injection",
+    "Service Locator",
+    "DI",
+    "IoC"
+  ],
+  "author": "Iron Code",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ironcodev/react-locustjs-locator/issues"
+  },
+  "homepage": "https://github.com/ironcodev/react-locustjs-locator#readme",
+  "dependencies": {
+    "locustjs-locator": "^1.0.7"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
+  }
+}
